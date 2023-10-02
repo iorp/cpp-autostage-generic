@@ -1,2 +1,4 @@
 # cpp-autostage-generic
- C++ generic sequence process control for Atmel microcontrollers
+Generic sequential process handler for CNC control.
+
+
